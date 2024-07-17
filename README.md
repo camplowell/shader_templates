@@ -8,7 +8,7 @@ To install cookiecutter, run:
 ```bash
 pipx install cookiecutter
 ```
-> Pipx is highly recommended for installing command-line utilities.
+> Pipx is highly recommended for end-user apps hosted on PiPy.
 
 ## Usage
 
