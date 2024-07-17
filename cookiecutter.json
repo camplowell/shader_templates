@@ -1,0 +1,10 @@
+{
+	"project_name": "My Shaderpack",
+	"dh_support": true,
+	"glsl_version": 150,
+	"__prompts__": {
+		"project_name": "Enter the name of your shaderpack",
+		"dh_support": "Include Distant Horizons support?",
+		"glsl_version": "GLSL version"
+	}
+}
